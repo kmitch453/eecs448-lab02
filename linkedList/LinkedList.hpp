@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author (kinda) KayLee Mitchell
+*	@date due 2/14/2021
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
