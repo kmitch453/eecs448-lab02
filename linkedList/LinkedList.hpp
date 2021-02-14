@@ -31,6 +31,7 @@ int LinkedList<T>::size() const
 {
 	/** TODO 
 		Fix this method
+		test
 	*/
 	return(0);
 }
